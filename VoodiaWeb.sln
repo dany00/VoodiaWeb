@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoodiaWeb", "VoodiaWeb\VoodiaWeb.csproj", "{9240583D-EE6C-4747-AFB5-D0F88622EC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoodiaWeb.Tests", "VoodiaWeb.Tests\VoodiaWeb.Tests.csproj", "{A2929398-57B5-4B44-9F8A-B634F361D5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9240583D-EE6C-4747-AFB5-D0F88622EC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9240583D-EE6C-4747-AFB5-D0F88622EC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9240583D-EE6C-4747-AFB5-D0F88622EC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9240583D-EE6C-4747-AFB5-D0F88622EC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2929398-57B5-4B44-9F8A-B634F361D5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2929398-57B5-4B44-9F8A-B634F361D5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2929398-57B5-4B44-9F8A-B634F361D5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2929398-57B5-4B44-9F8A-B634F361D5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
