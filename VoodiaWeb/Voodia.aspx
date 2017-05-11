@@ -7,7 +7,7 @@
     <title></title>
      <link href="Content/bootstrap.css" rel="stylesheet"/>
     <meta charset="utf-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -32,6 +32,8 @@
                         <img src="http://lorempixel.com/400/250/nighlife/" alt="" />
                     </a>
                 </li>
+                </ul>
+            <ul class="span2">
                 <li class="span2">
                     <div class="btn-group">
                         <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
@@ -54,6 +56,8 @@
                         </ul>
                     </div>
                 </li>
+            </ul>
+            <ul class="span2">
                 <li class="span2">
                     <!--RAGGRUPPAMENTO DI PULSANTI -->
                     <div class="btn-group">
@@ -90,7 +94,8 @@
                         </nav>
                         </div>
                  </li>
-
+            </ul>
+            <ul class="span2">
                 <li class="span2">
                     <div class="alert-warning">
                         <button type="button" class="close" data-dismiss="alert">×</button>
@@ -107,20 +112,16 @@
 
                 </li>
             </ul>
+            <ul class="span2">
+                <li class="span2">
+                    <div class="progress progress-striped active ">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+                            70% Complete
+                        </div>
+                    </div>
+                </li>
+            </ul>
         </div>
-
-
-
-   
-     
-
-       
-
-        
-
-        
-
-
     </form>
 </body>
 </html>
